@@ -11,4 +11,4 @@ WHERE empID = 'emp1';
 --Updated one row
 
 DELETE FROM Employees
-WHERE empID = 'emp3';
+WHERE empID = 'emp2';
